@@ -1,0 +1,1 @@
+document.write('<style>.fixed-footer{padding-bottom:0px;text-align:center;}</style><div class="fixed-footer"><p>Copyright &copy; 2020- All Rights Reserved</p></div></body>')

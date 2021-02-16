@@ -1,0 +1,1 @@
+document.write('<style>.fixed-header{background-color:cyan;padding-bottom:25px;}</style><div class="fixed-header"><br><img src=file:///C:/Users/ADMIN/Desktop/mypay/img/logo.jpeg alt="logo" width="100" height="100"><h1>MediKit</h1></div>')
